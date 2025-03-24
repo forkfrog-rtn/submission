@@ -1,6 +1,6 @@
 # Dicoding Collection Dashboard
 ## Projek Data Analisis dengan Python
-Repositori in berisi Data Analisis Python dari Dicoding dengan menggunakan 
+Repositori ini berisi Data Analisis Python dari Dicoding dengan menggunakan Streamlit
 ## Deskripsi
 Pada proyek akhir ini, saya memilih dataset Bike-Sharing Public Dataset sebagai data yang akan dianalisis dan di deploy menggunakan streamlit
 ## Clone Repositori
